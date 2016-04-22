@@ -1,0 +1,18 @@
+#game_name {
+  color: rgb(255, 255, 0);
+  font-size: 24pt;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#title {
+  color: rgb(255, 0, 150);
+  font-size: 22pt;
+  font-family: tahoma, sans-serif;
+}
+
+#buttons * {
+  font-size: 12pt;
+  font-weight: bold;
+}
